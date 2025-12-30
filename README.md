@@ -12,13 +12,11 @@ A React Native (Expo) mobile app for planning nightouts, exploring clubs, and co
 
 ## 🚀 Quick Start
 
-```bash
-# Install dependencies
+git clone
+cd nightowl-gather
 npm install
+npx expo start
 
-# Start the app
-npm start
-```
 
 Scan the QR code with **Expo Go** app on your phone.
 
